@@ -43,7 +43,7 @@ excecute this command in terminal:
 
 input
 ---
-![screenshot](p1\input\images.jpg)
+![screenshot](p1/input/images.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ input
 
 
 ---
-![screenshot](p1\output\result1.jpg)
+![screenshot](p1/output/result1.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ input
 
 
 ---
-![screenshot](p1\output\result2.jpg)
+![screenshot](p1/output/result2.jpg)
 
 ---
 
@@ -71,20 +71,20 @@ input
 
 
 ---
-![screenshot](p1\output\result3.jpg)
+![screenshot](p1/output/result3.jpg)
 
 ---
 4-Identity filter
 
 ---
-![screenshot](p1\output\result4.jpg)
+![screenshot](p1/output/result4.jpg)
 
 ---
 
 5-my filter
 
 ---
-![screenshot](p1\output\result5.jpg)
+![screenshot](p1/output/result5.jpg)
 
 ---
 **Second**   :   **Reduce noise by using Median filter**
