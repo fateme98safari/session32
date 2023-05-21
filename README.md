@@ -131,7 +131,7 @@ excecute this command in terminal:
 ![screenshot](p3/input/balloons_noisy.png)
 ### **result**
 ---
-![screenshot](p3/output\result5.jpg)
+![screenshot](p3/output/result5.jpg)
 
 ---
 
